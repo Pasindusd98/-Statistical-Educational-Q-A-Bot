@@ -1,8 +1,6 @@
-# -Statistical-Educational-Q-A-Bot
-A lightweight, intelligent chatbot designed to help students, educators, and self-learners explore and understand core concepts in statistics.
 # 📊 Statistical Educational Q&A Bot
 
-A lightweight, intelligent chatbot designed to help students, educators, and self-learners explore and understand core concepts in statistics. This bot uses natural language understanding to answer questions based on a carefully curated set of 300 commonly asked statistical topics.
+A lightweight, intelligent chatbot designed to help students, educators, and self-learners explore and understand core concepts in statistics. This bot uses natural language understanding to answer questions based on a carefully curated set ofcommonly asked statistical topics.
 
 ---
 
