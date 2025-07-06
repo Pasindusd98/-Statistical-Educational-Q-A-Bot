@@ -44,7 +44,7 @@ It brings intelligent tutoring to your browser — no need for textbooks, tutors
 | NLP Model | `sentence-transformers` (`all-MiniLM-L6-v2`) |
 | Vector Similarity | Cosine Similarity |
 | UI | `Gradio` |
-| Dataset | 300-question curated CSV |
+| Dataset | question curated CSV |
 | Language | Python |
 | Optional Deployment | Hugging Face Spaces, Streamlit Cloud |
 
